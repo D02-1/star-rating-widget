@@ -6,9 +6,7 @@ import "./index.css";
 const App = () => {
   return (
       <div className="App">
-        <Header />
-        <StarRating />
-        <Footer />
+        <p>Star Rating Widget</p>
       </div>
   );
 };
